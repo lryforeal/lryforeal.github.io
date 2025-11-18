@@ -1,13 +1,35 @@
 ---
 layout: page
-title: 联系我
+title: Contact
 permalink: /contact/
 ---
 
-## 联系方式
+## Get in Touch
 
-- **邮箱:** [您的邮箱地址]
-- **GitHub:** [您的 GitHub 链接]
-- **LinkedIn / X (Twitter):** [其他社交媒体链接]
+I am currently seeking a Postdoctoral Researcher position (expected start July 2026) in algorithmic game theory or deep reinforcement learning, particularly related to Multi-Agent RL.
 
-欢迎与我交流技术、项目或任何有趣的思考。
+Please feel free to reach out regarding research collaboration, post-doc opportunities, or general academic discussion.
+
+| Method | Detail |
+| :--- | :--- |
+| **Email** | [lurunyu17@mails.ucas.ac.com](mailto:lurunyu17@mails.ucas.ac.com) |
+| **GitHub** | [github.com/lryforeal](https://github.com/lryforeal) |
+| **LinkedIn** | [linkedin.com/in/lryforeal](https://www.linkedin.com/in/lryforeal) |
+| **Phone** | +86 188 1112 7397 (Mobile) |
+| **Location** | Beijing, China (No. 95, Zhongguancun East Road) |
+
+<hr>
+
+## Academic References
+
+References are available upon request. You may also contact my supervisors directly:
+
+### Principal Supervisor
+* **Prof. Dr. Dongbin Zhao**
+* **Email:** dongbin.zhao@ia.ac.cn
+* **Institution:** Institute of Automation, University of Chinese Academy of Sciences
+
+### Co-Supervisor
+* **Dr. Yuanheng Zhu**
+* **Email:** yuanheng.zhu@ia.ac.cn
+* **Institution:** Institute of Automation, University of Chinese Academy of Sciences
