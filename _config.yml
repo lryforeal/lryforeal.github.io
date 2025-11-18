@@ -1,24 +1,20 @@
 # 网站基本信息
-title: lryforeal's Blog
-email: example@email.com # 替换成您的邮箱
+title: Runyu Lu - 陆润宇
+email: lurunyu17@mails.ucas.ac.com
 description: >-
-  这是一个使用 Jekyll Minima 主题构建的个人网站。
+  Ph.D. Candidate specializing in Game Theory and Reinforcement Learning at the University of Chinese Academy of Sciences (UCAS).
 
-# 指定主题 - 关键步骤
-theme: minima
-
-# 您的文章目录 (可选)
-markdown: kramdown
-
-# 社交账号 (可选，用于 Minima 主题)
+# Minima 主题社交链接（在页脚显示）
 minima:
   social_links:
-    github: lryforeal # 替换为您的 GitHub 用户名
+    github: lryforeal 
+    linkedin: lryforeal # 添加 LinkedIn 链接
+    # 网站没有 Twitter，所以此处不添加
 
-# ----------------------------------------------------
-# 添加自定义导航链接 (Minima 主题)
-# ----------------------------------------------------
+# 导航栏设置 (保持不变)
 header_pages:
   - about.md
   - projects.md
   - contact.md
+
+theme: minima
