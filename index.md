@@ -31,32 +31,42 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ## Selected Publications
 
-### Conference
+### Conference Paper
 
 * **[NeurIPS 2025] Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games.**
     * **Lu, R.**, Zhang, P., Shi, R., et al. (First Author)
-    * \textit{The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)}, 2025.
+    * *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
     * [Paper Link] [Code] [Project Page]
-
+    
+    > **Abstract:** [在此处粘贴论文摘要。]
+    
 * **[ICML 2025] Constrained Exploitability Descent: An Offline Reinforcement Learning Method for Finding Mixed-Strategy Nash Equilibrium.**
     * **Lu, R.**, Zhu Y., Zhao D. (First Author)
-    * \textit{The 42nd International Conference on Machine Learning (ICML)}, 2025.
+    * *The 42nd International Conference on Machine Learning (ICML)*, 2025.
     * [Paper Link] [Code]
+
+    > **Abstract:** [在此处粘贴论文摘要。]
 
 * **[ICLR 2025] Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games.**
     * **Lu, R.**, Zhu Y., Zhao D. (First Author)
-    * \textit{The 13th International Conference on Learning Representations (ICLR)}, 2025.
+    * *The 13th International Conference on Learning Representations (ICLR)*, 2025.
     * [Paper Link] [Code]
+    
+    > **Abstract:** [在此处粘贴论文摘要。]
 
 * **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
     * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
     * [Paper Link] [Code]
+    
+    > **Abstract:** [在此处粘贴论文摘要。]
 
-### Journal
+### Journal Paper
 
 * **[IEEE TNNLS 2025] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
     * **Lu, R.**, Zhu, Y., Zhao D, et al.
-    * \textit{IEEE Transactions on Neural Networks and Learning Systems (TNNLS)}, Vol. 36, No. 8, 2025.
+    * *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, Vol. 36, No. 8, 2025.
     * [Journal Link]
+    
+    > **Abstract:** [在此处粘贴论文摘要。]
 
 ---
