@@ -1,0 +1,16 @@
+# 网站基本信息
+title: lryforeal's Blog
+email: example@email.com # 替换成您的邮箱
+description: >-
+  这是一个使用 Jekyll Minima 主题构建的个人网站。
+
+# 指定主题 - 关键步骤
+theme: minima
+
+# 您的文章目录 (可选)
+markdown: kramdown
+
+# 社交账号 (可选，用于 Minima 主题)
+minima:
+  social_links:
+    github: lryforeal # 替换为您的 GitHub 用户名
