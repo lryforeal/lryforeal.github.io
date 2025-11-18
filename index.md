@@ -3,13 +3,13 @@ layout: page
 permalink: / 
 ---
 
-<p align="right">
-  <img src="/assets/img/photo.jpg" alt="Runyu Lu Photo" width="180"/> 
-  <br>
-  <span style="font-size: 80%;">
-    🏠 at UCAS, Beijing in 2025.
-  </span>
-</p>
+<div style="float: right; margin-left: 20px; margin-bottom: 20px;">
+    <img src="/assets/img/photo.jpg" alt="Runyu Lu Photo" width="180"/> 
+    <br>
+    <span style="font-size: 80%;">
+        🏠 at UCAS, Beijing in 2025.
+    </span>
+</div>
 
 Hello! I'm **Runyu Lu (陆润宇)**, a Ph.D. Candidate specializing in **Game Theory and Reinforcement Learning** at the University of Chinese Academy of Sciences (UCAS), supervised by **Prof. Dongbin Zhao**.
 
