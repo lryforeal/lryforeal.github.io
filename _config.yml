@@ -14,3 +14,11 @@ markdown: kramdown
 minima:
   social_links:
     github: lryforeal # 替换为您的 GitHub 用户名
+
+# ----------------------------------------------------
+# 添加自定义导航链接 (Minima 主题)
+# ----------------------------------------------------
+header_pages:
+  - about.md
+  - projects.md
+  - contact.md
