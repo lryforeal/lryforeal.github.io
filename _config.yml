@@ -4,17 +4,6 @@ email: lurunyu17@mails.ucas.ac.com
 description: >-
   Ph.D. Candidate specializing in Game Theory and Reinforcement Learning at the University of Chinese Academy of Sciences (UCAS).
 
-# Minima 主题设置
-minima:
-  # 社交链接（在页脚显示）
-  social_links:
-    github: lryforeal
-    linkedin: lryforeal
-    # twitter: <您的 Twitter ID> # 如果需要，可以添加
-
-  # 额外的页脚内容 (可选，但推荐)
-  footer_content: "© 2025 Runyu Lu. Built with Jekyll and the Minima theme."
-
 # 导航栏设置 
 header_pages:
   - about.md
