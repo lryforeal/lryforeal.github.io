@@ -31,7 +31,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
     * *The 42nd International Conference on Machine Learning (ICML)*, 2025.
     * https://openreview.net/pdf?id=unUW6MC7Su
 
-    **Summary:** Introduces **Constrained Exploitability Descent (CED)**, a model-free **offline RL** algorithm for adversarial Markov games (MGs). Theoretically proves that CED converges to a stationary point where the min-player policy exhibits the **mixed-strategy Nash equilibrium** property. CED significantly outperforms existing pessimism-based and self-play methods in finding stable equilibria.
+    **Summary:** Introduces **Constrained Exploitability Descent (CED)**, a model-free **offline RL** algorithm for adversarial Markov games (MGs). Theoretically proves that CED converges to a stationary point where the min-player policy exhibits the **mixed-strategy Nash equilibrium** property. CED significantly outperforms existing pessimism-based and self-play methods in offline equilibrium finding.
 
 * **[ICLR 2025] Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games.**
     * **Lu, R.**, Zhu Y., Zhao D.
@@ -47,10 +47,10 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ### Journal Papers
 
-* **[IEEE TNNLS 2025] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
+* **[IEEE TNNLS 2024] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
     * **Lu, R.**, Zhu, Y., Zhao D, et al.
     * *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, Vol. 36, No. 8, 2025.
-    * [Journal Link]
+    * https://ieeexplore.ieee.org/abstract/document/10806634
     
     **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
 
