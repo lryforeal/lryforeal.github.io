@@ -7,9 +7,9 @@ permalink: /projects/
 ## Featured Research Appointments
 
 ### 1. Equilibrium Finding in Multi-Agent Systems
-* **Description:** Core research focusing on theoretically rigorous and practically applicable algorithms for finding mixed-strategy Nash Equilibria in complex stochastic games. This work led to the development of methods like **Constrained Exploitability Descent (CED)** and the continuous dynamic **IESL**.
+* **Description:** Core research focusing on theoretically rigorous and practically applicable algorithms for finding mixed-strategy Nash Equilibria in complex stochastic games. This work led to the development of methods like **Constrained Exploitability Descent (CED)** and **Divergence-Regularized Discounted Aggregation (DRDA)**.
 * **Key Outcomes:** Converging algorithms designed specifically for integration with Deep RL and large-scale function approximation.
-* **Related Publications:** ICML 2025, IEEE TNNLS 2025.
+* **Related Publications:** ICML 2025, ICLR 2025, IEEE TNNLS 2024.
 
 ### 2. Equilibrium Policy Generalization (EPG)
 * **Description:** Developed a novel RL paradigm for deriving **real-time robust strategies** in adversarial games (e.g., pursuit-evasion games) under dynamically changing environments (e.g., varying graph structures).
