@@ -20,8 +20,8 @@ My primary goal is to develop model-based or offline learning algorithms that of
 
 * **Equilibrium Finding Theory** and Last-Iterate Convergence.
 * **Multi-Agent Reinforcement Learning (MARL)** in Dynamic Games.
-* **Equilibrium Policy Generalization** (EPG) for cross-graph robustness.
-* Worst-Case Robust Strategies under Partial Observability.
+* Equilibrium Policy Generalization (EPG) for Cross-Graph Robustness.
+* Worst-Case Robust Strategies (R2PS) under Partial Observability.
 
 ### Education
 
@@ -35,6 +35,5 @@ My primary goal is to develop model-based or offline learning algorithms that of
 
 | Category | Expertise |
 | :--- | :--- |
-| **Programming** | C++, Python, and LLMs (Familiarity) |
+| **Programming** | C++, Python, and LLMs |
 | **Core Expertise** | Reinforcement Learning, Game Theory, Algorithm Design, Multi-Agent Systems |
-| **Tools/Libraries** | PyTorch, NumPy, Git |
