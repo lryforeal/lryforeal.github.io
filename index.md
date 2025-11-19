@@ -22,21 +22,21 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 * **[NeurIPS 2025] Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games.**
     * **Lu, R.**, Zhang, P., Shi, R., et al.
     * *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
-    * https://arxiv.org/pdf/2511.00811
+    * [arxiv.org/pdf/2511.00811](https://arxiv.org/pdf/2511.00811)
 
     **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework, aiming to find robust policy representation across changing game dynamics. Under pursuit-evasion games (PEGs), EPG enables **cross-graph zero-shot generalization** of policies by training against the opponents generated from a near-optimal equilibrium oracle. Establishing the first two generalizability properties in this domain. Designing a grouping mechanism and a sequence model for scalability.
 
 * **[ICML 2025] Constrained Exploitability Descent: An Offline Reinforcement Learning Method for Finding Mixed-Strategy Nash Equilibrium.**
     * **Lu, R.**, Zhu Y., Zhao D.
     * *The 42nd International Conference on Machine Learning (ICML)*, 2025.
-    * https://openreview.net/pdf?id=unUW6MC7Su
+    * [openreview.net/pdf?id=unUW6MC7Su](https://openreview.net/pdf?id=unUW6MC7Su)
 
     **Summary:** Introduces **Constrained Exploitability Descent (CED)**, a model-free **offline RL** algorithm for adversarial Markov games (MGs). Theoretically proves that CED converges to a stationary point where the min-player policy exhibits the **mixed-strategy Nash equilibrium** property. CED significantly outperforms existing pessimism-based and self-play methods in offline equilibrium finding.
 
 * **[ICLR 2025] Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games.**
     * **Lu, R.**, Zhu Y., Zhao D.
     * *The 13th International Conference on Learning Representations (ICLR)*, 2025.
-    * https://openreview.net/pdf?id=KD5nJUgeW4
+    * [openreview.net/pdf?id=KD5nJUgeW4](https://openreview.net/pdf?id=KD5nJUgeW4)
 
     **Summary:** Presents **Divergence-Regularized Discounted Aggregation (DRDA)**, a multi-round learning system for **Multiplayer Partially Observable Stochastic Games (POSGs)**. Extends discounted FTRL theory to POSGs, proving last-iterate convergence to Nash distribution in a single round, and convergence to an **exact Nash Equilibrium (NE)** over multiple rounds.
 
@@ -50,7 +50,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 * **[IEEE TNNLS 2024] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
     * **Lu, R.**, Zhu, Y., Zhao D, et al.
     * *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, Vol. 36, No. 8, 2025.
-    * https://ieeexplore.ieee.org/abstract/document/10806634
+    * [ieeexplore.ieee.org/abstract/document/10806634](https://ieeexplore.ieee.org/abstract/document/10806634)
     
     **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
 
