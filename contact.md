@@ -14,7 +14,7 @@ Please feel free to reach out regarding research collaboration, post-doc opportu
 | :--- | :--- |
 | **Email** | [lurunyu17@mails.ucas.ac.com](mailto:lurunyu17@mails.ucas.ac.com) |
 | **GitHub** | [github.com/lryforeal](https://github.com/lryforeal) |
-| **LinkedIn** | [linkedin.com/in/lryforeal](https://www.linkedin.com/in/lryforeal) |
+| **LinkedIn** | [linkedin.com/in/lryhi](https://www.linkedin.com/in/lryhi) |
 | **Phone** | +86 188 1112 7397 (Mobile) |
 | **Location** | Beijing, China (No. 95, Zhongguancun East Road) |
 
