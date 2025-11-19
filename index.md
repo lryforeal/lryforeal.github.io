@@ -20,31 +20,30 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 ### Conference Papers
 
 * **[NeurIPS 2025] Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games.**
-    * **Lu, R.**, Zhang, P., Shi, R., et al. (First Author)
+    * **Lu, R.**, Zhang, P., Shi, R., et al.
     * *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
-    * [Paper Link] [Code] [Project Page]
-    
-    > **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework for pursuit-evasion games (PEGs). EPG enables **cross-graph zero-shot generalization** of policies by training against a provably near-optimal equilibrium oracle. Key contributions include the first two generalizability properties in this domain and a grouping/sequence model for scalability.
+    * https://arxiv.org/pdf/2511.00811
+
+    **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework, aiming to find robust policy representation across changing game dynamics. Under pursuit-evasion games (PEGs), EPG enables **cross-graph zero-shot generalization** of policies by training against the opponents generated from a near-optimal equilibrium oracle. Establishing the first two generalizability properties in this domain and a grouping/sequence model for scalability.
 
 * **[ICML 2025] Constrained Exploitability Descent: An Offline Reinforcement Learning Method for Finding Mixed-Strategy Nash Equilibrium.**
-    * **Lu, R.**, Zhu Y., Zhao D. (First Author)
+    * **Lu, R.**, Zhu Y., Zhao D.
     * *The 42nd International Conference on Machine Learning (ICML)*, 2025.
-    * [Paper Link] [Code]
+    * https://openreview.net/pdf?id=unUW6MC7Su
 
-    > **Summary:** Introduces **Constrained Exploitability Descent (CED)**, a model-free **offline RL** algorithm for adversarial Markov games (MGs). Theoretically proves that CED converges to a stationary point where the min-player policy exhibits the **mixed-strategy Nash equilibrium** property. CED significantly outperforms existing pessimism-based and self-play methods in finding stable equilibria.
+    **Summary:** Introduces **Constrained Exploitability Descent (CED)**, a model-free **offline RL** algorithm for adversarial Markov games (MGs). Theoretically proves that CED converges to a stationary point where the min-player policy exhibits the **mixed-strategy Nash equilibrium** property. CED significantly outperforms existing pessimism-based and self-play methods in finding stable equilibria.
 
 * **[ICLR 2025] Divergence-Regularized Discounted Aggregation: Equilibrium Finding in Multiplayer Partially Observable Stochastic Games.**
-    * **Lu, R.**, Zhu Y., Zhao D. (First Author)
+    * **Lu, R.**, Zhu Y., Zhao D.
     * *The 13th International Conference on Learning Representations (ICLR)*, 2025.
-    * [Paper Link] [Code]
-    
-    > **Summary:** Presents **Divergence-Regularized Discounted Aggregation (DRDA)**, a multi-round learning system for **Multiplayer Partially Observable Stochastic Games (POSGs)**. Extends discounted FTRL theory to POSGs, proving last-iterate convergence to Nash distribution in a single round, and convergence to an **exact Nash Equilibrium (NE)** over multiple rounds.
+    * https://openreview.net/pdf?id=KD5nJUgeW4
+
+    **Summary:** Presents **Divergence-Regularized Discounted Aggregation (DRDA)**, a multi-round learning system for **Multiplayer Partially Observable Stochastic Games (POSGs)**. Extends discounted FTRL theory to POSGs, proving last-iterate convergence to Nash distribution in a single round, and convergence to an **exact Nash Equilibrium (NE)** over multiple rounds.
 
 * **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
     * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
-    * [Paper Link] [Code]
     
-    > **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
+    **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
 
 ### Journal Papers
 
@@ -53,6 +52,6 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
     * *IEEE Transactions on Neural Networks and Learning Systems (TNNLS)*, Vol. 36, No. 8, 2025.
     * [Journal Link]
     
-    > **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
+    **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
 
 ---
