@@ -24,7 +24,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
     * *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
     * https://arxiv.org/pdf/2511.00811
 
-    **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework, aiming to find robust policy representation across changing game dynamics. Under pursuit-evasion games (PEGs), EPG enables **cross-graph zero-shot generalization** of policies by training against the opponents generated from a near-optimal equilibrium oracle. Establishing the first two generalizability properties in this domain and a grouping/sequence model for scalability.
+    **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework, aiming to find robust policy representation across changing game dynamics. Under pursuit-evasion games (PEGs), EPG enables **cross-graph zero-shot generalization** of policies by training against the opponents generated from a near-optimal equilibrium oracle. Establishing the first two generalizability properties in this domain. Designing a grouping mechanism and a sequence model for scalability.
 
 * **[ICML 2025] Constrained Exploitability Descent: An Offline Reinforcement Learning Method for Finding Mixed-Strategy Nash Equilibrium.**
     * **Lu, R.**, Zhu Y., Zhao D.
@@ -43,7 +43,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 * **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
     * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
     
-    **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
+    **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability** and **asynchronous moves**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
 
 ### Journal Papers
 
