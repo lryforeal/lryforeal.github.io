@@ -33,9 +33,9 @@ My primary goal is to develop model-based or offline learning algorithms that of
 
 ### Awards
 
-* **2025:** National Scholarship for Doctoral Students, University of Chinese Academy of Sciences (UCAS).
-* **2025:** IEEE CIS Graduate Student Research Grant, IEEE Computational Intelligence Society (CIS).
-* **2018:** Silver Medal, ACM-ICPC Asia-East Continent Final, Association for Computing Machinery (ACM).
+* **2025:** National Scholarship for Doctoral Students, University of Chinese Academy of Sciences.
+* **2025:** IEEE CIS Graduate Student Research Grant, IEEE Computational Intelligence Society.
+* **2018:** Silver Medal, ICPC Asia-East Continent Final, Association for Computing Machinery.
 * **2018:** Silver Medal, ACM-ICPC Asia Regional Contest Beijing Site, Association for Computing Machinery (ACM).
 
 ## Technical Skills
