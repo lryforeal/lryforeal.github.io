@@ -26,10 +26,17 @@ My primary goal is to develop model-based or offline learning algorithms that of
 ### Education
 
 * **Ph.D. Candidate (2021 – Expected 2026):** Computer Applied Technology, UCAS.
-    * *Advisor:* Prof. Dongbin Zhao.
-    * *Dissertation Topic:* Equilibrium Finding Theory and Reinforcement Learning for Dynamic Games.
+    * *Advisor:* Prof. Dongbin Zhao.
+    * *Dissertation Topic:* Equilibrium Finding Theory and Reinforcement Learning for Dynamic Games.
 * **B.Eng. (2017 – 2021):** Computer Science and Technology, UCAS.
-    * *GPA:* 3.92/4.00.
+    * *GPA:* 3.92/4.00.
+
+### Awards
+
+* **2025:** National Scholarship for Doctoral Students, University of Chinese Academy of Sciences (UCAS).
+* **2025:** IEEE CIS Graduate Student Research Grant, IEEE Computational Intelligence Society (CIS).
+* **2018:** Silver Medal, ACM-ICPC Asia-East Continent Final, Association for Computing Machinery (ACM).
+* **2018:** Silver Medal, ACM-ICPC Asia Regional Contest Beijing Site, Association for Computing Machinery (ACM).
 
 ## Technical Skills
 
