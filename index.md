@@ -42,7 +42,8 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 * **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
     * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
-    
+    * [https://arxiv.org/abs/2511.17367](https://arxiv.org/abs/2511.17367)
+
     **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability** and **asynchronous moves**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
 
 ### Journal Papers
