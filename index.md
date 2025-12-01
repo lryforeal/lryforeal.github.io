@@ -17,7 +17,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ## 📰 News
 
-* **[Nov 2025]** I attended the **2025 Distributed Artificial Intelligence (DAI) Conference** in London, UK (Nov 20–25). I presented our accepted paper, "**ARAC: Adaptive Regularized Multi-Agent Soft Actor-Critic in Graph-Structured Adversarial Games**," and organized the workshop "**LLMs in Games: Reasoning, Strategy, and Distributed Intelligence**." I also gave a talk at the workshop on "**Divergence-Regularized Reinforcement Learning for Equilibrium Policies in Adversarial Games**."
+* **[Nov 2025]** I attended the **7th International Conference in Distributed Artificial Intelligence (DAI)** at King's College London, UK. I presented our accepted paper, "**ARAC: Adaptive Regularized Multi-Agent Soft Actor-Critic in Graph-Structured Adversarial Games**" (Nov 24), and organized the workshop "**LLMs in Games: Reasoning, Strategy, and Distributed Intelligence**" (Nov 21). I also gave a talk on "**Divergence-Regularized Reinforcement Learning for Equilibrium Policies in Adversarial Games**" during the workshop.
 
 * **[Sep 2025]** Our paper "**Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games**" was accepted to **NeurIPS 2025**!
 
