@@ -26,7 +26,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ---
 
-## Selected Publications
+## 📚 Selected Publications
 
 ### Conference Papers
 
@@ -51,7 +51,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
     **Summary:** Presents **Divergence-Regularized Discounted Aggregation (DRDA)**, a multi-round learning system for **Multiplayer Partially Observable Stochastic Games (POSGs)**. Extends discounted FTRL theory to POSGs, proving last-iterate convergence to Nash distribution in a single round, and convergence to an **exact Nash Equilibrium (NE)** over multiple rounds.
 
-### Journal Papers
+### Journal Paper
 
 * **[IEEE TNNLS 2024] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
     * **Lu, R.**, Zhu, Y., Zhao D, et al.
@@ -60,7 +60,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
     
     **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
 
-### Working Papers
+### Working Paper
 
 * **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
     * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
