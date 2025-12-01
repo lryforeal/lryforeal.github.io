@@ -15,6 +15,14 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ---
 
+## 📰 News
+
+* **[Nov 2025]** I attended the **2025 Distributed Artificial Intelligence (DAI) Conference** in London, UK (Nov 20–25). I presented our accepted paper, "**ARAC: Adaptive Regularized Multi-Agent Soft Actor-Critic in Graph-Structured Adversarial Games**," and organized the workshop "**LLMs in Games: Reasoning, Strategy, and Distributed Intelligence**." I also gave a talk at the workshop on "**Divergence-Regularized Reinforcement Learning for Equilibrium Policies in Adversarial Games**."
+
+* **[Sep 2025]** Our paper "**Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games**" was accepted to **NeurIPS 2025**!
+
+---
+
 ## Selected Publications
 
 ### Conference Papers
@@ -40,12 +48,6 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
     **Summary:** Presents **Divergence-Regularized Discounted Aggregation (DRDA)**, a multi-round learning system for **Multiplayer Partially Observable Stochastic Games (POSGs)**. Extends discounted FTRL theory to POSGs, proving last-iterate convergence to Nash distribution in a single round, and convergence to an **exact Nash Equilibrium (NE)** over multiple rounds.
 
-* **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
-    * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
-    * [https://arxiv.org/pdf/2511.17367](https://arxiv.org/pdf/2511.17367)
-
-    **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability** and **asynchronous moves**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
-
 ### Journal Papers
 
 * **[IEEE TNNLS 2024] Last-Iterate Convergence to Approximate Nash Equilibria in Multiplayer Imperfect Information Games.**
@@ -55,4 +57,10 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
     
     **Summary:** Constructs the continuous-time dynamic **Imperfect-information Exponential-decay Score-based Learning (IESL)** for **multiplayer imperfect information games (IIGs)**. Proves **last-iterate convergence** to approximate Nash equilibria, which is highly beneficial for deep RL implementations. Empirically verified to outperform CFR and RD variants in multiplayer poker.
 
----
+### Working Papers
+
+* **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
+    * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
+    * [https://arxiv.org/pdf/2511.17367](https://arxiv.org/pdf/2511.17367)
+
+    **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability** and **asynchronous moves**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
