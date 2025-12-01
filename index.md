@@ -9,7 +9,7 @@ permalink: /
 
 Hello! I'm **Runyu Lu (陆润宇)**, a Ph.D. Candidate specializing in **Game Theory and Reinforcement Learning** at the University of Chinese Academy of Sciences (UCAS), supervised by **Prof. Dongbin Zhao**.
 
-My research focuses on **equilibrium learning**, aiming to develop model-based or offline learning algorithms with **last-iterate convergence guarantees** in dynamic games, which facilitate deep RL implementations. I also proposed the **Equilibrium Policy Generalization** paradigm for real-time robust strategies.
+My research focuses on **equilibrium learning**, aiming to develop model-based, offline, or online learning algorithms with **last-iterate convergence guarantees** in dynamic games, which facilitate deep RL implementations. I also proposed the **Equilibrium Policy Generalization** paradigm for real-time robust strategies.
 
 Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from the University of Chinese Academy of Sciences.
 
