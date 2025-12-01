@@ -20,9 +20,7 @@ Please feel free to reach out regarding research collaboration, post-doc opportu
 
 <hr>
 
-## Academic References
-
-References are available upon request. You may also contact my supervisors directly:
+## Supervisor Information
 
 ### Principal Supervisor
 * **Prof. Dr. Dongbin Zhao**
