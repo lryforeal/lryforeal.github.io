@@ -16,7 +16,7 @@ I hold a B.Eng. in Computer Science and Technology from the University of Chines
 
 ### Research Focus
 
-My primary goal is to develop model-based or offline learning algorithms that offer **last-iterate convergence guarantees** toward approximate Nash Equilibria. This work facilitates stable implementation in deep RL contexts. Key research themes include:
+My primary goal is to develop model-based, online, or offline learning algorithms with **last-iterate convergence guarantees** towards approximate or exact Nash equilibria, facilitating stable implementation in deep RL contexts. Key research themes include:
 
 * **Equilibrium Finding Theory** and Last-Iterate Convergence.
 * **Multi-Agent Reinforcement Learning (MARL)** in Dynamic Games.
