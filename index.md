@@ -33,7 +33,7 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 * **[NeurIPS 2025] Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games.**
     * **Lu, R.**, Zhang, P., Shi, R., et al.
     * *The 39th Annual Conference on Neural Information Processing Systems (NeurIPS)*, 2025.
-    * [arxiv.org/pdf/2511.00811](https://arxiv.org/pdf/2511.00811)
+    * [openreview.net/pdf?id=z67on2D0j1](https://openreview.net/pdf?id=z67on2D0j1)
 
     **Summary:** Proposes the **Equilibrium Policy Generalization (EPG)** framework, aiming to find robust policy representation across changing game dynamics. Under pursuit-evasion games (PEGs), EPG enables **cross-graph zero-shot generalization** of policies by training against the opponents generated from a near-optimal equilibrium oracle. Establishing the first two generalizability properties in this domain. Designing a grouping mechanism and a sequence model for scalability.
 
