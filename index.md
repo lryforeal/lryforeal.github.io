@@ -17,6 +17,8 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ## 📰 News
 
+* **[Jan 2026]** Our paper "**R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability**" was accepted to **ICLR 2026**!
+* 
 * **[Nov 2025]** I attended the **7th International Conference in Distributed Artificial Intelligence (DAI 2025)** at King's College London, UK!
     * Organized the workshop "**LLMs in Games: Reasoning, Strategy, and Distributed Intelligence**" (Nov 21)
     * Gave a talk on "**Divergence-Regularized Reinforcement Learning for Equilibrium Policies in Adversarial Games**" for the workshop.
@@ -62,8 +64,8 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ### Working Paper
 
-* **[Under Review] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
-    * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (submitted to ICLR 2026)
+* **[ICLR 2026] R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability.**
+    * **Lu, R.**, Shi, R., Zhu Y., Zhao D. (accepted to ICLR 2026)
     * [arxiv.org/pdf/2511.17367](https://arxiv.org/pdf/2511.17367)
 
     **Summary:** Proposes **Worst-Case Robust Real-Time Pursuit Strategies (R2PS)** for graph-based PEGs under **partial observability** and **asynchronous moves**. Integrates a belief preservation mechanism with the EPG framework to learn robust, real-time GNN policies against asynchronous-move evasion strategies, achieving superior zero-shot generalization.
