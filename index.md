@@ -27,6 +27,8 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 * **[Sep 2025]** Our paper "**Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games**" was accepted to **NeurIPS 2025**!
 
+* **[Sep 2025]** Our paper "**Equilibrium Policy Generalization: A Reinforcement Learning Framework for Cross-Graph Zero-Shot Generalization in Pursuit-Evasion Games**" was accepted to **NeurIPS 2025**!
+
 ---
 
 ## 📚 Selected Publications
