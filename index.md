@@ -17,9 +17,11 @@ Prior to my Ph.D., I earned my B.Eng. in Computer Science and Technology from th
 
 ## 📰 News
 
+* **[Apr 2026]** I am attending the **14h International Conference on Learning Representations** in Rio de Janeiro, Brazil. My poster will be presented on Thu, Apr 23, 2026 at Pavilion 4 P4-#4705 (3:15 PM – 5:45 PM). Come to chat with me if you will be there!
+
 * **[Jan 2026]** Our paper "**R2PS: Worst-Case Robust Real-Time Pursuit Strategies under Partial Observability**" was accepted to **ICLR 2026**!
 
-* **[Nov 2025]** I attended the **7th International Conference in Distributed Artificial Intelligence (DAI 2025)** at King's College London, UK!
+* **[Nov 2025]** I attended the **7th International Conference in Distributed Artificial Intelligence (DAI 2025)** at King's College London, UK.
     * Organized the workshop "**LLMs in Games: Reasoning, Strategy, and Distributed Intelligence**" (Nov 21)
     * Gave a talk on "**Divergence-Regularized Reinforcement Learning for Equilibrium Policies in Adversarial Games**" for the workshop.
     * Made an oral presentation for our accepted paper, "**ARAC: Adaptive Regularized Multi-Agent Soft Actor-Critic in Graph-Structured Adversarial Games**" (Nov 24).
