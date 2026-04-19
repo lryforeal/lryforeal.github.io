@@ -19,11 +19,11 @@ permalink: /projects/
 ### 3. Hierarchical Campus Security System
 * **Description:** An applied project focused on enabling real-time, robust decision-making for security robots. The system includes modules for sensor allocation and **worst-case robust robotic pursuit** under partial observability.
 * **Key Outcomes:** Development of the **R2PS** approach, allowing for real-time strategy generation in dynamical security scenarios.
-* **Related Publications:** ICLR 2026 (Under Review).
+* **Related Publications:** ICLR 2026 (and an upcoming manuscript).
 
 <hr>
 
 ## Teaching and Mentoring
 
-* **Teaching Assistant (2023 – 2025):** Reinforcement Learning (Graduate Course), UCAS.
+* **Teaching Assistant (2023 – 2026):** Reinforcement Learning (Graduate Course), UCAS.
 * **Teaching Assistant (2021):** Design and Analysis of Algorithms Lab (Undergraduate Course), UCAS.
